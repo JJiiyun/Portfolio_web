@@ -341,8 +341,6 @@ p {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  max-width: 1200px;
-  margin: auto;
 }
 
 .project {
@@ -403,11 +401,6 @@ p {
   background-color: var(--color-light-white);
 }
 
-.testimonials {
-  margin: auto;
-  max-width: 1200px;
-}
-
 .testimonial {
   display: flex;
   margin: 32px;
@@ -460,6 +453,7 @@ p {
 .contact__title {
   margin: 32px 0;
 }
+
 
 .contact__links {
   font-size: var(--font-large);
