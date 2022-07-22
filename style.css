@@ -94,6 +94,8 @@ p {
 
 /* Navbar */
 #navbar {
+  /* 요소들이 navbar 위로 올라오는 것 fixing */
+  z-index:1;
   position: fixed;
   width: 100%;
   display: flex;
@@ -101,7 +103,7 @@ p {
   background-color: var(--color-pink);
   align-items: center;
   color: var(--color-white);
-  padding: 16px;
+  padding: 8px;
   background-color: transparent;
   transition: all var(--animation-duration) ease-in-out;
 }
