@@ -6,7 +6,7 @@ Html, CSS, JavaScript • 모던 디자인 • 반응형 웹
 ---
 
 ## 🚀 주요 기능 미리보기
-![Image](https://github.com/user-attachments/assets/fc0f0358-1949-4cca-bdb6-cabc8a65a22b)
+![Image](https://github.com/user-attachments/assets/fc0f0358-1949-4cca-bdb6-cabc8a65a22b) \
 *(GIF에 모든 인터랙션이 담겨있습니다!)*
 
 ### ✨ 핵심 기능
