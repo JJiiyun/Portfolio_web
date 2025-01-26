@@ -1,4 +1,4 @@
-# 1학년 때 제작한 개인 포트폴리오 웹사이트 🌐
+# 2022 개인 포트폴리오 웹사이트 🌐
 
 ## 🚀 주요 기능 미리보기
 ![Image](https://github.com/user-attachments/assets/fc0f0358-1949-4cca-bdb6-cabc8a65a22b) \
@@ -22,6 +22,5 @@
 `Python 3.10` | `Flask 2.3` | `qrcode 7.4` | `Pillow 10.0`
 
 **Frontend**  
-`HTML5` | `CSS3 Grid/Flex` | `Vanilla JS`  
-`Font Awesome 5` | `Poppins Font`
+`HTML5` | `CSS` | `Vanilla JS`  
 
