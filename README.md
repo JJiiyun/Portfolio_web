@@ -18,9 +18,6 @@
    - Github, LinkedIn 연동
 
 ## 🛠 기술 스택
-**Backend**  
-`Python 3.10` | `Flask 2.3` | `qrcode 7.4` | `Pillow 10.0`
-
 **Frontend**  
 `HTML5` | `CSS` | `Vanilla JS`  
 
